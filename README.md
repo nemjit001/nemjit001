@@ -1,4 +1,4 @@
-![Beholding in progress...](https://github.com/nemjit001/nemjit001/media/behold.gif)
+![Beholding in progress...](https://github.com/nemjit001/nemjit001/blob/master/media/behold.gif)
 
 ### 🔭 Cool projects I am working on:
 - Currently empty...
