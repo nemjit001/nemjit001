@@ -1,4 +1,11 @@
-### Hi there 👋
+![Beholding in progress...](./media/behold.gif)
+
+### 🔭 Cool projects I am working on:
+- Currently empty...
+
+### 📫 How to reach me:
+- [My Portfolio Website](https://tverhoef.com)
+- [My LinkedIn](https://www.linkedin.com/in/tijmen-verhoef/)
 
 <!--
 **nemjit001/nemjit001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
