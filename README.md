@@ -1,9 +1,9 @@
+# Tijmen Verhoef
+
 ![Beholding in progress...](https://github.com/nemjit001/nemjit001/blob/master/media/behold.gif)
 
-### 🔭 Cool projects I am working on:
-- Currently empty...
+## 📫 How to reach me
 
-### 📫 How to reach me:
 - [My Portfolio Website](https://tverhoef.com)
 - [My LinkedIn](https://www.linkedin.com/in/tijmen-verhoef/)
 
