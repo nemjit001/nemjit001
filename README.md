@@ -1,6 +1,6 @@
 # Tijmen Verhoef
 
-![Beholding in progress...](https://github.com/nemjit001/nemjit001/blob/master/media/behold.gif)
+![Beholding in progress...](./media/behold.gif?raw=true)
 
 ## 📫 How to reach me
 
